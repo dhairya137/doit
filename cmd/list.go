@@ -2,12 +2,13 @@
 package cmd
 
 import (
-	"doit/internal/installer"
 	"fmt"
 	"os"
 	"sort"
 	"strings"
 	"text/tabwriter"
+
+	"github.com/dhairya137/doit/internal/installer"
 
 	"github.com/spf13/cobra"
 )
