@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-	"doit/cmd"
+
+	"github.com/dhairya137/doit/cmd"
 )
 
 func main() {

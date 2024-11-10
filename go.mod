@@ -1,4 +1,5 @@
-module doit
+module github.com/dhairya137/doit
+// module doit
 
 go 1.22.1
 
