@@ -2,7 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"doit/internal/installer"
+
+	"github.com/dhairya137/doit/internal/installer"
 	"github.com/spf13/cobra"
 )
 
